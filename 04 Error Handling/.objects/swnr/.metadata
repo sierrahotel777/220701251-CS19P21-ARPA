@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Google",
+  "Type": "App",
+  "Id": "swnr-740ykejn0_3uw-sfA",
+  "Reference": "XC54-U2ILE28JHA85rgzGg/swnr-740ykejn0_3uw-sfA",
+  "Created": "2025-08-19T03:21:58.5654213Z",
+  "Updated": "2025-08-19T03:21:58.5654213Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
